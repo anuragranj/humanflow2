@@ -1,0 +1,8 @@
+*/_pycache__
+*.pyc
+_pycache_/
+*.tar
+checkpoints/*
+log/*
+results/*
+extras/*

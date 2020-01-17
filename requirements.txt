@@ -1,0 +1,9 @@
+torchvision
+numpy
+spatial-correlation-sampler>=0.0.8
+tensorboardX>=1.4
+imageio
+argparse
+scipy==1.0.0
+opencv-python
+tqdm
