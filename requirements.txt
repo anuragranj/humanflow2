@@ -4,6 +4,6 @@ spatial-correlation-sampler>=0.0.8
 tensorboardX>=1.4
 imageio
 argparse
-scipy==1.0.0
+scipy==1.10.0
 opencv-python
 tqdm
